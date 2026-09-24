@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF150F23</color>
+    <color name="ink_deep">#FF1F1633</color>
+    <color name="accent_lime">#FFC2EF4E</color>
+    <color name="canvas">#FFFFFFFF</color>
+    <color name="surface_night">#FF150F23</color>
+</resources>
